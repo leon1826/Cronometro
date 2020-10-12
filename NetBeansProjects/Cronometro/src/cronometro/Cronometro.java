@@ -20,6 +20,7 @@ public class Cronometro extends javax.swing.JFrame{
         // TODO code application logic here
         Vista vista = new Vista();
         vista.setVisible(true);
+        System.out.println("Cambios");
      
        
     }
