@@ -5,24 +5,17 @@
  */
 package cronometro;
 
-import javax.swing.JFrame;
-
 /**
  *
  * @author Leon1
  */
-public class Cronometro extends javax.swing.JFrame{
+public class Cronometro {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Vista vista = new Vista();
-        vista.setVisible(true);
-        System.out.println("Cambios");
-     
-       
     }
     
 }
