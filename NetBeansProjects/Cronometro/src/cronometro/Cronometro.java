@@ -17,6 +17,9 @@ public class Cronometro {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("prueba");
+        VPrincipal v1 = new VPrincipal();
+        v1.setVisible(true);
+        
     }
     
 }
