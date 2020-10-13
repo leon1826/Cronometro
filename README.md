@@ -17,4 +17,6 @@ Brayan León 20141001002
 
 ### Prototipo de pantalla:
 
+![Captura](https://user-images.githubusercontent.com/54810355/95813944-b3939a00-0cde-11eb-9e96-7246422dd952.PNG)
+
 ## Diagrama de clases:
