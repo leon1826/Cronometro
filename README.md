@@ -67,18 +67,18 @@ Componentes de Datos:
 
 ![tabla2](https://user-images.githubusercontent.com/54810276/95879616-2e3ed280-0d3c-11eb-86c0-eefb213ba37e.PNG)
 
-Por lo tanto el punto de funcion no ajustado es de 31 
+- Por lo tanto el punto de funcion no ajustado es de 31 
 
-Se hace una aproximacion del 5% por lo tanto el total seria de 32.55
+- Se hace una aproximacion del 5% por lo tanto el total seria de 32.55
 
-Suponiendo que el equipo toma 2 horas por puntos de funcion se determinan los sigueintes datos: 
+- Suponiendo que el equipo toma 2 horas por puntos de funcion se determinan los sigueintes datos: 
 
 31*2=62 horas 
 Teniendo en cuenta el ajuste se llega a un tiempo total de: 
 
 65.1 Horas 
 
-Luego establecemos el tiempo de trabajo diario que si se considera como horas laborales serian un aproxiamdo de 7 horas por lo tanto el proyecto tendira una duracion de : 
+- Luego establecemos el tiempo de trabajo diario que si se considera como horas laborales serian un aproxiamdo de 7 horas por lo tanto el proyecto tendira una duracion de : 
 
 9.3 Dias que vana a depender de la semana laboral por lo cual tomando 5 dias laborales por semana tendriamos un aproximado de 2 semanas para la realizacion del proyecto 
 
