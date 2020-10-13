@@ -58,6 +58,12 @@ Salida externa:
 Consulta externa: 
 - Tiempos almacenados 
 
+Componentes de Datos: 
+
+- Archivo lógico interno.
+- Archivo externo de interfaz.
+
+
 
 ## Costos:
 
