@@ -21,6 +21,14 @@ Se desarrollará un aplicativo que permita por medio de una interfaz gráfica el
 
 ### Historias de usuario:
 
+![h1](https://user-images.githubusercontent.com/54810355/95817112-51d72e00-0ce6-11eb-9692-8ad51c64f79a.PNG)
+
+![h2](https://user-images.githubusercontent.com/54810355/95817114-526fc480-0ce6-11eb-9406-21417230e1c4.PNG)
+
+![h3](https://user-images.githubusercontent.com/54810355/95817115-526fc480-0ce6-11eb-98b6-cca8df35ad89.PNG)
+
+![h4](https://user-images.githubusercontent.com/54810355/95817116-53085b00-0ce6-11eb-9d09-4e29ef306164.PNG)
+
 ### Prototipo de pantalla:
 
 ![Captura](https://user-images.githubusercontent.com/54810355/95813944-b3939a00-0cde-11eb-9e96-7246422dd952.PNG)
