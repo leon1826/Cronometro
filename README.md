@@ -86,4 +86,8 @@ Luego establecemos el tiempo de trabajo diario que si se considera como horas la
 
 ## Costos:
 
+Dado un salario de 1'500.000 por desarrollador y el tiempo que el proyecto conlleva 
+
+El Costo del proyecto en terminos de talento humano tendria un costo de 1'500.000
+
 
