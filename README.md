@@ -13,6 +13,8 @@ Se desarrollará un aplicativo que permita por medio de una interfaz gráfica el
 
 ### Usuarios del sistema:
 
+![Captura1](https://user-images.githubusercontent.com/54810355/95815533-81843700-0ce2-11eb-9ea2-f09980c0b155.PNG)
+
 ### Requerimientos funcionales:
 
 ### Historias de usuario:
