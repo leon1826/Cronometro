@@ -3,7 +3,7 @@
 ## Integrantes
 Lindsey Katherine Camargo Beltrán 20172020037
 
-Brayan León 20141001002
+Brayan Esteban León Pinto 20141001002
 
 ## Especificación de requerimientos:
 
