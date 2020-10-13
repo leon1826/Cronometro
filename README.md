@@ -37,4 +37,8 @@ Se desarrollará un aplicativo que permita por medio de una interfaz gráfica el
 
 ![Main](https://user-images.githubusercontent.com/54810355/95817340-cca04900-0ce6-11eb-81fb-1658e1b0d17d.jpg)
 
+## Tiempo estimado:
+
+## Costos:
+
 
