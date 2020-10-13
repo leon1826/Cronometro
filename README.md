@@ -17,6 +17,8 @@ Se desarrollará un aplicativo que permita por medio de una interfaz gráfica el
 
 ### Requerimientos funcionales:
 
+![Captura2](https://user-images.githubusercontent.com/54810355/95816062-cbb9e800-0ce3-11eb-8fc7-ae5844c08c26.PNG)
+
 ### Historias de usuario:
 
 ### Prototipo de pantalla:
