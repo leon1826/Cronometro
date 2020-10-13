@@ -29,6 +29,9 @@ Se desarrollará un aplicativo que permita por medio de una interfaz gráfica el
 
 ![h4](https://user-images.githubusercontent.com/54810355/95817116-53085b00-0ce6-11eb-9d09-4e29ef306164.PNG)
 
+##Diagrama casos de Uso 
+
+
 ### Prototipo de pantalla:
 
 ![Captura](https://user-images.githubusercontent.com/54810355/95813944-b3939a00-0cde-11eb-9e96-7246422dd952.PNG)
