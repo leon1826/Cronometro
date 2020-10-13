@@ -30,6 +30,7 @@ Se desarrollará un aplicativo que permita por medio de una interfaz gráfica el
 ![h4](https://user-images.githubusercontent.com/54810355/95817116-53085b00-0ce6-11eb-9d09-4e29ef306164.PNG)
 
 ##Diagrama casos de Uso 
+![Caso de uso general](https://user-images.githubusercontent.com/54810276/95873107-32b3bd00-0d35-11eb-9cc1-1c75e62d8995.jpeg)
 
 
 ### Prototipo de pantalla:
