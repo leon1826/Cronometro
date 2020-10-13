@@ -63,7 +63,7 @@ Componentes de Datos:
 - Archivo lógico interno.
 - Archivo externo de interfaz.
 
-
+![Tabla](https://user-images.githubusercontent.com/54810276/95878667-187cdd80-0d3b-11eb-8fa2-524b0d21198b.PNG)
 
 ## Costos:
 
