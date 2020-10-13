@@ -8,6 +8,7 @@ package cronometro;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import javax.swing.JOptionPane;
 import javax.swing.Timer;
 
 /**
@@ -133,8 +134,10 @@ public class VPrincipal extends javax.swing.JFrame {
         Iniciar.setText("iniciar");
         Pausar.setEnabled(false);
         Detener.setEnabled(true);
+        JOptionPane.showMessageDialog(null, "El tiempo transcurrido fue: "+h+"h"+m+"m"+s+"s");
         h=0;m=0;s=0;
         actualizar();
+        
     }//GEN-LAST:event_DetenerActionPerformed
 
     private void IniciarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_IniciarActionPerformed
