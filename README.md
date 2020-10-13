@@ -38,6 +38,10 @@ Se desarrollará un aplicativo que permita por medio de una interfaz gráfica el
 ![Main](https://user-images.githubusercontent.com/54810355/95817340-cca04900-0ce6-11eb-81fb-1658e1b0d17d.jpg)
 
 ## Tiempo estimado:
+Estimacion de tamaño: 
+Se determina el tipo de desarrollo, para este caso se observa que la aplicacion es de desarrollo por primera vez
+Por otra parte se va a realizar un conteo mediante la tecnica de Puntos de funcion, identificando las transacciones previmente mencionadas
+
 
 ## Costos:
 
