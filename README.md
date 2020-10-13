@@ -43,8 +43,20 @@ Se desarrollará un aplicativo que permita por medio de una interfaz gráfica el
 
 ## Tiempo estimado:
 Estimacion de tamaño: 
-Se determina el tipo de desarrollo, para este caso se observa que la aplicacion es de desarrollo por primera vez
+Se determina el tipo de desarrollo, para este caso se observa que la aplicacion es de desarrollo por primera vez.
+
 Por otra parte se va a realizar un conteo mediante la tecnica de Puntos de funcion, identificando las transacciones previmente mencionadas
+
+Componentes transaccionales: 
+- Entrada externa: Presionar botones para iniciar medicion de tiempo
+Accion boton de pausa y de vuelta
+Accion de boton de detener el tiempo.
+
+Salida externa: 
+- Registro de tiempo transcurrido  
+
+Consulta externa: 
+- Tiempos almacenados 
 
 
 ## Costos:
