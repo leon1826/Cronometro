@@ -34,3 +34,7 @@ Se desarrollará un aplicativo que permita por medio de una interfaz gráfica el
 ![Captura](https://user-images.githubusercontent.com/54810355/95813944-b3939a00-0cde-11eb-9e96-7246422dd952.PNG)
 
 ## Diagrama de clases:
+
+![Main](https://user-images.githubusercontent.com/54810355/95817340-cca04900-0ce6-11eb-81fb-1658e1b0d17d.jpg)
+
+
