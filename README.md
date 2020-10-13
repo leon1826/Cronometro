@@ -9,6 +9,8 @@ Brayan León 20141001002
 
 ### Proposito del sistema:
 
+Se desarrollará un aplicativo que permita por medio de una interfaz gráfica el uso de un cronometro el cual este contara los segundos, minutos y horas y en el  cual el usuario que tendrá las siguientes funcionalidades: iniciar y detener dicho cronometro, además pausarlo y así mismo hacer que este continúe con el conteo.
+
 ### Usuarios del sistema:
 
 ### Requerimientos funcionales:
